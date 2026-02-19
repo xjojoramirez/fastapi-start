@@ -5,7 +5,7 @@ A simple CRUD API built with FastAPI and SQLAlchemy, containerized with Docker.
 
 ---
 
-## �� Features
+## Features
 
 - Create items
 - Read all items
@@ -18,7 +18,7 @@ A simple CRUD API built with FastAPI and SQLAlchemy, containerized with Docker.
 
 ---
 
-## �� Tech Stack
+## Tech Stack
 
 - FastAPI
 - SQLAlchemy
@@ -28,25 +28,9 @@ A simple CRUD API built with FastAPI and SQLAlchemy, containerized with Docker.
 
 ---
 
-## �� Project Structure
-
-fastapi-start/
-├── Dockerfile
-├── docker-compose.yml
-├── app/
-│ ├── crud.py
-│ ├── database.py
-│ ├── main.py
-│ ├── models.py
-│ └── schemas.py
-└── requirements.txt
-
-
----
-
 ## ▶️ Run with Docker (Recommended)
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/xjojoramirez/fastapi-start.git
