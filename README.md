@@ -14,7 +14,6 @@ A simple CRUD API built with FastAPI and SQLAlchemy, containerized with Docker.
 - Delete item
 - SQLite database
 - Dockerized setup
-- Swagger documentation
 
 ---
 
