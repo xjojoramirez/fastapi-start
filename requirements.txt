@@ -1,3 +1,9 @@
-fastapi[standard]>=0.113.0,<0.114.0
-pydantic>=2.7.0,<3.0.0
-sqlalchemy>=2.0.0,<3.0.0
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose
+passlib[bcrypt]
+pydantic
+python-dotenv
+python-multipart
